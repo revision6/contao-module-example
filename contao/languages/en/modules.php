@@ -14,3 +14,5 @@
 
 $GLOBALS['TL_LANG']['MOD']['list'][0] = 'List';
 $GLOBALS['TL_LANG']['MOD']['list'][1] = 'A very simple list';
+
+$GLOBALS['TL_LANG']['FMD']['list'] = array('List', 'A very simple list');
